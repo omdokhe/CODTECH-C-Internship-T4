@@ -1,18 +1,3 @@
-/*
-=========================================================
-   CODTECH Internship Task-4 (PRO)
-   Data Compression Tool using RLE Algorithm
-   Author: Om (Intern)
-   Language: C
-=========================================================
-
-   Features:
-   - Compress text file using Run-Length Encoding
-   - Decompress back to original text
-   - File-based tool (real compression utility)
-=========================================================
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
@@ -145,3 +130,4 @@ void decompressFile(const char *inputFile, const char *outputFile) {
     printf("\n✅ File Decompressed Successfully!");
     printf("\nOutput Saved in: %s\n", outputFile);
 }
+
