@@ -6,6 +6,7 @@ DOMAIN  : C LANGUAGE
 DURATION : 4 WEEKS
 MENTOR  : NEELA SANTOSH
 OUTPUT  :
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/4a00bb64-b3bb-404b-a647-ac56d18d99a5" />
 
 DESCRIPTION :
 This task focuses on implementing a basic data compression and decompression tool using the Run Length Encoding (RLE) algorithm in the C programming language. Data compression is an important concept in computer science, used to reduce the size of data for efficient storage and faster transmission. Compression techniques are widely applied in file formats, multimedia systems, networking, and storage optimization.
